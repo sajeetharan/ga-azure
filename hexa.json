@@ -1,0 +1,13 @@
+{
+  "project": {
+    "location": "westeurope",
+    "name": "ga-azure"
+  },
+  "storage": {
+    "location": "westeurope",
+    "name": "gaazure10940"
+  },
+  "hosting": {
+    "folder": ".dist/ga-azure"
+  }
+}
